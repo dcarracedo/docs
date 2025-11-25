@@ -9,9 +9,6 @@ The following new features have been backported to 6.10.5:
 
 - `Change ETH* context parameters on live VMs <https://github.com/OpenNebula/one/issues/6606>`__.
 
-The following new features have been backported in the Sunstone Web UI to 6.10.5:
-
-
 The following issues has been solved in 6.10.5:
 
 - `Fix an issue with fs_lvm_ssh not honoring BRIDGE_LIST in the image datastore <https://github.com/OpenNebula/one/issues/7070>`__.
@@ -43,7 +40,8 @@ The following issues has been solved in 6.10.5:
 - `Fix VM configuration for Single VM Backup configuration <https://github.com/OpenNebula/one/issues/7164>`__.
 - `Fix UI overlay issue on Fireedge VNC on 1280*760 resolution <https://github.com/OpenNebula/one/issues/7175>`__.
 - `Fix 2FA reset in FireEdge after UI changes are made <https://github.com/OpenNebula/one/issues/7105>`__.
-- `Fix LDAP authentication by removeing password encoding <https://github.com/OpenNebula/one/issues/7344>` __.
+- `Fix LDAP authentication by removeing password encoding <https://github.com/OpenNebula/one/issues/7344>`__.
+- `Fix Change password button wrong displayed on FireEdge <https://github.com/OpenNebula/one/issues/7033>`__. 
 
 Changes in Configuration Files
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -3,7 +3,7 @@
 Resolved Issues in 6.10.6
 --------------------------------------------------------------------------------
 
-A complete list of solved issues for 6.10.6 can be found in the `project development portal <https://github.com/OpenNebula/one/milestone/85?closed=1>`__.
+A complete list of solved issues for 6.10.6 can be found in the `project development portal <https://github.com/OpenNebula/one/milestone/90?closed=1>`__.
 
 The following new features have been backported to 6.10.6:
 
